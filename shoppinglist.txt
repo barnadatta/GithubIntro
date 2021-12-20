@@ -3,3 +3,5 @@ bags
 earrings
 sarees
 lipsticks
+Mobile
+Camera
